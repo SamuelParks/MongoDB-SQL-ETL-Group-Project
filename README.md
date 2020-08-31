@@ -36,3 +36,5 @@ Load transformed data into a central database (NoSQL). The central database shou
 *	Vehicles that should be sold at auction 
 *	Overall safety rating for each vehicle 
 *	Recalls that apply to each vehicle 
+
+GT-DS-BC-Proj-1
