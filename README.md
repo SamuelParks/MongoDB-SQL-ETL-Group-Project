@@ -37,7 +37,8 @@ Load transformed data into a central database (NoSQL). The central database shou
 *	Overall safety rating for each vehicle 
 *	Recalls that apply to each vehicle 
 
-
+Screenshot of MongoDB Compass:
+![image](https://user-images.githubusercontent.com/61704055/94388308-a42b2300-011a-11eb-90ce-742e8563f8f5.png)
 
 
 
